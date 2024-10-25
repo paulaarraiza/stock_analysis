@@ -1,0 +1,131 @@
+Indicator;Category
+address1;Company Info
+city;Company Info
+state;Company Info
+zip;Company Info
+country;Company Info
+phone;Company Info
+website;Company Info
+industry;Company Info
+industryKey;Company Info
+industryDisp;Company Info
+sector;Company Info
+sectorKey;Company Info
+sectorDisp;Company Info
+longBusinessSummary;Company Info
+fullTimeEmployees;Company Info
+companyOfficers;Company Info
+auditRisk;Company Info
+boardRisk;Company Info
+compensationRisk;Company Info
+shareHolderRightsRisk;Company Info
+overallRisk;Company Info
+governanceEpochDate;Company Info
+compensationAsOfEpochDate;Company Info
+irWebsite;Company Info
+maxAge;Company Info
+priceHint;Technical
+previousClose;Technical
+open;Technical
+dayLow;Technical
+dayHigh;Technical
+regularMarketPreviousClose;Technical
+regularMarketOpen;Technical
+regularMarketDayLow;Technical
+regularMarketDayHigh;Technical
+dividendRate;Fundamental
+dividendYield;Fundamental
+exDividendDate;Fundamental
+payoutRatio;Fundamental
+fiveYearAvgDividendYield;Fundamental
+beta;Fundamental
+trailingPE;Fundamental
+forwardPE;Fundamental
+volume;Technical
+regularMarketVolume;Technical
+averageVolume;Technical
+averageVolume10days;Technical
+averageDailyVolume10Day;Technical
+bid;Technical
+ask;Technical
+bidSize;Technical
+askSize;Technical
+marketCap;Fundamental
+fiftyTwoWeekLow;Technical
+fiftyTwoWeekHigh;Technical
+priceToSalesTrailing12Months;Fundamental
+fiftyDayAverage;Technical
+twoHundredDayAverage;Technical
+trailingAnnualDividendRate;Fundamental
+trailingAnnualDividendYield;Fundamental
+currency;Company Info
+enterpriseValue;Fundamental
+profitMargins;Fundamental
+floatShares;Company Info
+sharesOutstanding;Company Info
+sharesShort;Company Info
+sharesShortPriorMonth;Company Info
+sharesShortPreviousMonthDate;Company Info
+dateShortInterest;Fundamental
+sharesPercentSharesOut;Company Info
+heldPercentInsiders;Company Info
+heldPercentInstitutions;Company Info
+shortRatio;Fundamental
+shortPercentOfFloat;Fundamental
+impliedSharesOutstanding;Company Info
+bookValue;Fundamental
+priceToBook;Fundamental
+lastFiscalYearEnd;Irrelevant
+nextFiscalYearEnd;Irrelevant
+mostRecentQuarter;Irrelevant
+netIncomeToCommon;Fundamental
+trailingEps;Fundamental
+forwardEps;Fundamental
+pegRatio;Company Info
+lastSplitFactor;Irrelevant
+lastSplitDate;Irrelevant
+enterpriseToRevenue;Fundamental
+enterpriseToEbitda;Fundamental
+52WeekChange;Technical
+SandP52WeekChange;Technical
+lastDividendValue;Technical
+lastDividendDate;Technical
+exchange;Company Info
+quoteType;Irrelevant
+symbol;Company Info
+underlyingSymbol;Irrelevant
+shortName;Irrelevant
+longName;Irrelevant
+firstTradeDateEpochUtc;Irrelevant
+timeZoneFullName;Irrelevant
+timeZoneShortName;Irrelevant
+uuid;Irrelevant
+messageBoardId;Irrelevant
+gmtOffSetMilliseconds;Irrelevant
+currentPrice;Technical
+targetHighPrice;Irrelevant
+targetLowPrice;Irrelevant
+targetMeanPrice;Irrelevant
+targetMedianPrice;Irrelevant
+recommendationMean;Irrelevant
+recommendationKey;Irrelevant
+numberOfAnalystOpinions;Irrelevant
+totalCash;Fundamental
+totalCashPerShare;Fundamental
+ebitda;Fundamental
+totalDebt;Fundamental
+quickRatio;Fundamental
+currentRatio;Fundamental
+totalRevenue;Fundamental
+debtToEquity;Fundamental
+revenuePerShare;Fundamental
+returnOnAssets;Fundamental
+returnOnEquity;Fundamental
+freeCashflow;Fundamental
+operatingCashflow;Fundamental
+revenueGrowth;Fundamental
+grossMargins;Fundamental
+ebitdaMargins;Fundamental
+operatingMargins;Fundamental
+financialCurrency;Company Info
+trailingPegRatio;Company Info
